@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="Chapter10/Item66/|Chapter2/Item2/|Chapter10/Item67/|Chapter10/Item69/|Chapter10/Item71/|Chapter10/Item72/|Chapter11/Item74/|Chapter11/Item75/|Chapter11/Item76/|Chapter11/Item77/|Chapter11/Item78/|Chapter2/Item1/|Chapter2/Item3/|Chapter2/Item3/field/|Chapter2/Item3/method/|Chapter2/Item3/serializable/|Chapter2/Item4/|Chapter2/Item5/|Chapter2/Item6/|Chapter3/Item10/|Chapter3/Item11/|Chapter3/Item12/|Chapter3/Item8/|Chapter3/Item8/composition/|Chapter3/Item9/|Chapter4/Item14/|Chapter4/Item15/|Chapter4/Item16/|Chapter4/Item17/|Chapter4/Item18/|Chapter4/Item19/|Chapter4/Item20/|Chapter4/Item20/hierarchy/|Chapter5/Item23/|Chapter5/Item25/|Chapter5/Item26/|Chapter5/Item27/|Chapter5/Item28/|Chapter5/Item29/|Chapter6/Item30/|Chapter6/Item31/|Chapter6/Item32/|Chapter6/Item33/|Chapter6/Item34/|Chapter6/Item35/|Chapter6/Item36/|Chapter7/Item39/|Chapter7/Item41/|Chapter7/Item42/|Chapter7/Item49/|Chapter7/Item53/|Chapter8/Item46/|Chapter8/Item47/|Chapter8/Item48/|Chapter5/|Chapter10/|Chapter11/|Chapter2/|Chapter3/|Chapter4/|Chapter6/|Chapter7/|Chapter8/|Chapter9/|code/" kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
