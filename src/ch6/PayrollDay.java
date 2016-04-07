@@ -1,5 +1,14 @@
+/**
+ * @file PayrollDay.java
+ * @author Jacky
+ * @date Apr 7, 2016 
+ */
 package ch6;
 
+/**
+ * @description The strategy enum patterns
+ * 
+ */
 public enum PayrollDay
 {
 	MONDAY(PayType.WEEKDAY);
